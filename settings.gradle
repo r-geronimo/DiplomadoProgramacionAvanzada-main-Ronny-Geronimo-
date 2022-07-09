@@ -1,3 +1,4 @@
 rootProject.name = 'DiplomadoProgramacionAvanzada'
 include 'untitled'
+include 'Tareas'
 
